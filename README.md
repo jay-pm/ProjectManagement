@@ -1,15 +1,15 @@
-# ProjectManagement
+## ProjectManagement
 
-## 1. Initiating and Planning Projects
+### 1. Initiating and Planning Projects
 
-## 2. Budgeting and Scheduling Projects
+### 2. Budgeting and Scheduling Projects
 
-## 3. Managing Project Risks and Changes
+### 3. Managing Project Risks and Changes
 
-## 4. Project Management Project
+### 4. Project Management Project
 
-## 5. High-Impact Business Writing
+### 5. High-Impact Business Writing
 
-## 6. The Art of Negotiation
+### 6. The Art of Negotiation
 
-## 7. Effective Problem-Solving and Decision-Making
+### 7. Effective Problem-Solving and Decision-Making
