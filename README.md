@@ -10,6 +10,7 @@
     - RAM (responsiblity assignment matrix - with human resources)
     - RACI approach for RAM (R: Responsible, A: Accountable, C: Consult, I: Inform)
   - Estimating
+    - Time and cost based
   - Scheduling
 
 ### 3. Managing Project Risks and Changes
