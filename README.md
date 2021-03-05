@@ -7,6 +7,7 @@
 
 ### 2. Budgeting and Scheduling Projects
   - Resource needs (people and more : money, material, equipement, facilities)
+    - RAM (responsiblity assignment matrix - with human resources)
   - Estimating
   - Scheduling
 
