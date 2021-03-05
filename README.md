@@ -5,6 +5,9 @@
   - Stakeholder management
 
 ### 2. Budgeting and Scheduling Projects
+  - Resource needs
+  - Estimating
+  - Scheduling
 
 ### 3. Managing Project Risks and Changes
 
@@ -16,4 +19,6 @@
 
 ### 7. Effective Problem-Solving and Decision-Making
   - Decision making and problem solving
-  - Pareto chart, cause and effect/fishbone/Ishiwaka diagram, Histogram
+  - Pareto chart, cause and effect/fishbone/Ishikawa diagram, Histogram
+  - Group decision making (majority, minority, expert, authority with no input, authority with input, consensus)
+  - Implementing decision results
