@@ -2,6 +2,7 @@
 
 ### 1. Initiating and Planning Projects
   - Project
+  - WBS -breaking the work down
   - Stakeholder management
 
 ### 2. Budgeting and Scheduling Projects
