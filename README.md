@@ -6,7 +6,7 @@
   - Stakeholder management
 
 ### 2. Budgeting and Scheduling Projects
-  - Resource needs
+  - Resource needs (people and more : money, material, equipement, facilities)
   - Estimating
   - Scheduling
 
