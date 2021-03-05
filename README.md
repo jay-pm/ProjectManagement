@@ -8,6 +8,7 @@
 ### 2. Budgeting and Scheduling Projects
   - Resource needs (people and more : money, material, equipement, facilities)
     - RAM (responsiblity assignment matrix - with human resources)
+    - RACI approach for RAM (R: Responsible, A: Accountable, C: Consult, I: Inform)
   - Estimating
   - Scheduling
 
