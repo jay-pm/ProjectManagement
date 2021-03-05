@@ -2,7 +2,7 @@
 
 ### 1. Initiating and Planning Projects
   - Project
-  - WBS -breaking the work down
+  - WBS -breaking the work down (work decomposition)
   - Stakeholder management
 
 ### 2. Budgeting and Scheduling Projects
@@ -12,7 +12,10 @@
   - Estimating
     - Time and cost based
     - Dont pad, add contingency.
+    - Use WBS
+    - Use historical data or Lessons learned earlier
   - Scheduling
+    - Consider all constrains (legal, natural, logical)
 
 ### 3. Managing Project Risks and Changes
 
