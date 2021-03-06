@@ -18,6 +18,10 @@
     - Consider all constrains (legal, natural, logical)
 
 ### 3. Managing Project Risks and Changes
+  - Project communication
+    - Template: Who? -stakehlders, what? -information, Why? -Purpose, how often? -frequency, method/format -email, message etc, who will send?, who should review before sending?
+  - xyz
+  - abc
 
 ### 4. Project Management Project
 
