@@ -2,8 +2,16 @@
 
 ### 1. Initiating and Planning Projects
   - Project
+    - unique and temporary endeavor
+    - has a defined beginning and end
+    - Purpose is to create a specific product or service
+    - Key process groups: Initiating, planning, executing, monitoring and controlling, closing
+  - Three components of the triple constraint are: Scope, Cost, Time
   - WBS -breaking the work down (work decomposition)
   - Stakeholder management
+    - Stakeholder: The people or organizations that are positively or negatively impacted by your project.
+    - Stakeholder classification using power/intrest grid (Monitor, keep informed, manage closely, keep satisfied)
+    - Stakeholder engagement level: Unaware, resistant, neutral, supportive, leading
 
 ### 2. Budgeting and Scheduling Projects
   - Resource needs (people and more : money, material, equipement, facilities)
