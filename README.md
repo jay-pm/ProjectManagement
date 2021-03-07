@@ -1,4 +1,4 @@
-## Project Management:
+## Project Management Principles and Practices Specialization:
 
 ### 1. Initiating and Planning Projects
   - Project
@@ -8,6 +8,8 @@
     - Key process groups: Initiating, planning, executing, monitoring and controlling, closing
   - Three components of the triple constraint are: Scope, Cost, Time
   - WBS -breaking the work down (work decomposition)
+  - Conflict management:
+    - Five approaches to deal with conflict: Confronting, Compromising, Smoothing, Forcing, Avoiding.
   - Stakeholder management
     - Stakeholder: The people or organizations that are positively or negatively impacted by your project.
     - Stakeholder classification using power/intrest grid (Monitor, keep informed, manage closely, keep satisfied)
