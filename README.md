@@ -1,4 +1,6 @@
-## Project Management Principles and Practices Specialization:
+# Google Project Management: Professional Certificate
+
+## Content
 
 ### 1. Initiating and Planning Projects
   - Project
