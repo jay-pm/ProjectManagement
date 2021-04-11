@@ -2,6 +2,48 @@
 
 ## Content
 
+
+1. Foundations of Project Management
+	1. Embarking on a career in project management
+	2. Becoming an effective project manager
+	3. The project management life cycle and methodologies
+	4. Organizational structure and culture
+
+2. Project Initiation: Starting a Successful Project
+	1. Fundamentals of project initiation
+	2. Defining project goals, scope, and success criteria
+	3. Working effectively with stakeholders
+	4. Utilizing resources and tools for project success
+
+3. Project Planning: Putting It All Together
+	1. Beginning the planning phase
+	2. Building a project plan
+	3. Managing budgeting and procurement
+	4. Managing risks effectively
+	5. Organizing communication and documentation
+
+4. Project Execution: Running the Project
+	1. Introduction to project execution
+	2. Quality management and continuous improvement
+	3. Data-informed decision-making
+	4. Leadership and influencing skills
+	5. Effective project communication
+	6. Closing a project
+
+5. Agile Project Management
+	1. The fundamentals of Agile
+	2. Scrum 101
+	3. Implementing Scrum
+	4. Applying Agile in the organization
+
+6. Capstone: Applying Project Management in the Real World
+	1. Initiating a project
+	2. Building out a project plan
+	3. Maintaining quality
+	4. Effective stakeholder communication
+
+
+
 ### 1. Initiating and Planning Projects
   - Project
     - unique and temporary endeavor
